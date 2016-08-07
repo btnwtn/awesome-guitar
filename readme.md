@@ -2,6 +2,8 @@
 
 > An awesome list of resources for all things 🎸 guitar
 
+* [Contribution guide](contributing.md)
+
 ## Table of Contents
 * [Music Theory](#music-theory)
 * [Jazz](#jazz)
