@@ -10,7 +10,7 @@
 
 
 ## Music Theory
-* [A Modern Method for Guitar: 123 Complete](http://www.berkleepress.com/catalog/product?product_id=11250)
+* [A Modern Method for Guitar: 123 Complete](http://berkleepress.com/guitar/a-modern-method-for-guitar-123-complete/)
 
 ## Jazz
 
